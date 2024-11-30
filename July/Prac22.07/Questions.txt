@@ -1,0 +1,42 @@
+Basic Operators
+Arithmetic Operators:
+
+Write a Java program that takes two integers as input and prints their sum, difference, product, quotient, and remainder.
+Increment and Decrement Operators:
+
+Explain the difference between the postfix and prefix increment operators with an example.
+Relational Operators:
+
+Write a program to compare two integers and print whether the first number is greater than, less than, or equal to the second number.
+Ternary and Conditional Operators
+Ternary Operator:
+
+Write a Java program that takes an integer input and uses the ternary operator to print whether the number is even or odd.
+Nested Ternary Operator:
+
+Use nested ternary operators to determine the largest of three numbers.
+Logical Operators
+Logical AND and OR:
+
+Write a program that checks if a given year is a leap year. Use logical AND and OR operators in the condition.
+Logical NOT:
+
+Write a program that takes a boolean input and prints its negation using the logical NOT operator.
+Bitwise Operators
+Bitwise AND, OR, XOR:
+
+Write a program that performs bitwise AND, OR, and XOR operations on two integers and prints the results.
+Bitwise Shift Operators:
+
+Write a program to demonstrate the use of left shift (<<), right shift (>>), and unsigned right shift (>>>) operators on an integer.
+Advanced Problems
+Combining Logical and Bitwise Operators:
+
+Write a program that takes two integers and prints whether both numbers are odd using both logical and bitwise operators.
+Using Ternary and Bitwise Operators:
+
+Use the ternary operator to determine if a number is positive, negative, or zero, and then use bitwise operators to set the appropriate bits in a status flag.
+Conditional Statements with Logical Operators:
+
+Write a program that checks if a given character is a vowel or consonant using conditional statements and logical operators.
+Feel free to adjust the complexity of these questions based on your needs!

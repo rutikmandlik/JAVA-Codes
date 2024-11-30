@@ -1,0 +1,42 @@
+July-24 Batch 2024 Today's Practical Task...
+	
+	Q 1.	Write a java to Create class name as Food with using data member fid,fname,fprice,fcategory using do while and switch case.
+		    create array of object of size 5 ,store the food details in it and perform following operations.
+	
+	case 1 : Add All Food details.
+	case 2 : Display All Food details.
+	case 3 : Display food details whose price range between 500 to 1000.
+	case 4 : Search Food  details using by id.
+	case 5 : Update Food  details using by name. 
+	case 6 : Delete Food details using by price.
+	case 7 : Purchase Food Items.
+	case 8 : Display Bill Details :
+					Case 1 :  Bill Without Gst.
+					Case 2 : Bill With Gst.
+	case 9 : Display Food Details Start first letter is 'P' and ends with 'A'.
+	case 10 : Exit The Code.
+	
+	Q 2.  Write a java Program to calculate overtime pay of 5 employees. The overtime pay rate is 
+			Rs.50/- (per Hour). Daily shift hour time is only 8 hours. 
+			
+				Note- for a week only 40 hours of working are allowed.
+				
+				1. Create class Employee with data member ID, Name, total working, salary, overtime
+				Set Information by using a setDetails() method and create a display Information() method to
+				display all information with salary.
+				2. Create another class name as OverTime with method setEmployee(Employee emp[ ]) and 
+				void calculateOvertime() to calculate overtime. 
+				
+	Q 3.	Create a class called Library to hold accession number,title of the book,author name,price of the book
+		and write a menu driven program in java that implements the working of a library :
+		The menu options should be: 
+		1. Add Book Details.
+		2. Display All Book Details.
+		3. Display List of all book of given author.
+		4. Display list the title of specified book.
+
+		5. Display list count of the book in the library.
+		6. Display list the books in the ascending order of accession number.
+		7. Update book details by title of book.
+		8. Delete book details by price.
+		9. Exit The Code.
